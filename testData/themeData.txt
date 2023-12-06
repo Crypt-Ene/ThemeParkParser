@@ -1,0 +1,9 @@
+Bone Breaker,Roller Coaster,861,204,1.3m,
+Frozen Mountain,Fantasy,302,180,0.8m,
+Haunted House,Scary,2134,423,1.0m,
+R0B0T0P14,Fantasy,923,354,0.8m,
+Among Us,Scary,428,624,1.2m,
+Beacon,Fantasy,2219,1460,1.4m,
+North Pole,Holiday,252,63,0.0m,
+Spookys house,Scary,1395,892,1.4m,
+Cyberia,Misc,11852,3623,1.4m
